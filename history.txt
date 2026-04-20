@@ -1,0 +1,456 @@
+    1  top
+    2  ps auxf
+    3  top
+    4  cd
+    5  ccd
+    6  pwd
+    7  $ ssh-keygen
+    8  pwd
+    9  ssh-keygen
+   10  cat .ssh/id_ed25519.pub
+   11  ps auxf
+   12  ssh ec2-user@linux.itcareerhub.de
+   13  ssh ec2-user@linux.itcareerhub.de
+   14  ssh ec2-user@linux.itcareerhub.de
+   15  cd Desktop/
+   16  mkdir /papka
+   17  mkdir papka
+   18  cd papka
+   19  scp ec2-user@linux.itcareerhub.de:/opt/121225-ptm/alex56/fifel.txt .
+   20  scp ec2-user@linux.itcareerhub.de:/opt/121225-ptm/asamoile/file.txt .
+   21  scp ec2-user@linux.itcareerhub.de:/opt/121225-ptm/asamoile/file.txt .
+   22  scp ec2-user@linux.itcareerhub.de:/opt/121225-ptm/asamoile/file.txt
+   23  ssh ec2-user@linux.itcareerhub.de
+   24  ssh ec2-user@linux.itcareerhub.de
+   25  ssh ec2-user@linux.itcareerhub.de
+   26  top
+   27  pwd
+   28  mkdir test_02_sam
+   29  cd /test_02_sam
+   30  cd test_02_sam
+   31  git init
+   32  ls -la
+   33  ls -ls .git
+   34  echo "# test_02_sam" >> README.md
+   35  ls
+   36  git add README.md
+   37  git status
+   38  touch testt
+   39  git status
+   40  git add .
+   41  git status
+   42  git commit -m "created fails"
+   43  git config --global user.email "2mik.samuel@gmail.com"
+   44   git config --global user.name "Miktlan"
+   45   git config --global user.name 
+   46  git config --global user.email
+   47  git commit -m "created fails"
+   48  git log
+   49  git branch -M main
+   50  git log
+   51  git remote add origin git@github.com:Mikt1an/test_02_sam.git
+   52  git remote -v
+   53  git push -u origin main
+   54  pwd
+   55  ls -la
+   56  cd ..
+   57  pwd
+   58  ls -la
+   59  history
+   60  cd test_02_sam
+   61  git status
+   62  git add homework/
+   63  git commit -m "add homework"
+   64  git status
+   65  git push
+   66  git status
+   67  mkdir ITHUB
+   68  cd ITHUB
+   69  mkdir python_home_school
+   70  cd python_home_school
+   71  echo "#Homework Samoilenko Python" >> ReadMe.md
+   72  ls
+   73  ls -la
+   74  git init
+   75  git add ReadMe.md
+   76  git status
+   77  git commit -m "first commit"
+   78  git branch -M main
+   79  git remote add origin git@github.com:Mikt1an/python_home_school.git
+   80  git push -u origin main
+   81  ls
+   82  git add Samoilenko_dz_python_1
+   83  git add Samoilenko_dz_python_1.txt
+   84  git commit -m "python_dz_1"
+   85  git push
+   86  git add Samoilenko_dz_python_2.txt
+   87  git commit -m "python_dz_2"
+   88  git push
+   89  git add Samoilenko_dz_python_2.py
+   90  git commit -m "python_dz_2"
+   91  git push
+   92  git add Samoilenko_dz_python_3.py
+   93  git commit -m "python_dz_3"
+   94  git push
+   95  git add Samoilenko_dz_python_4.py
+   96  git commit -m "python_dz_4"
+   97  git push
+   98  git add Samoilenko_dz_python_5.py
+   99  git commit -m "python_dz_5"
+  100  git push
+  101  git add Samoilenko_dz_python_6.py
+  102  git commit -m "python_dz_6"
+  103  git push
+  104  git add Samoilenko_dz_python_7.py
+  105  git commit -m "python_dz_7"
+  106  git push
+  107  git add Samoilenko_dz_python_8.py
+  108  git commit -m "python_dz_8"
+  109  git push
+  110  git add Samoilenko_dz_python_9.py
+  111  git add Samoilenko_dz_python_9.py
+  112  git commit -m "python_dz_9"
+  113  git push
+  114  git add Samoilenko_dz_python_10.py
+  115  git commit -m "python_dz_10"
+  116  git push
+  117  cd
+  118  cd /ITHUB/Linux_home_school
+  119  ls 
+  120  cd /ITHUB/
+  121  cd /ITHUB
+  122  cd ITHUB/
+  123  cd ITHUB/Linux_home_school/
+  124  cd ITHUB/Linux_home_school
+  125  ls
+  126  cd Linux_home_school
+  127  echo "Linux_home_school" >> README.md
+  128  git init
+  129  git add README.md
+  130  ls
+  131  cat README.md
+  132  git add README.md
+  133  git commit -m "first commit" 
+  134  git branch -M main
+  135  git remote add origin git@github.com:Mikt1an/Linux_home_school.git
+  136  git push -u origin main
+  137  git add Samoilenko_dz_3_Linux.py
+  138  ls
+  139  git add Samoilenko_dz_3_Linux.txt
+  140  git add Samoilenko_dz_3_Linux.txt
+  141  git commit -m "Linux_dz_3"
+  142  git push
+  143  git add samoilenko_dz_4.txt
+  144  git add samoilenko_dz_4.txt
+  145  git commit -m "Linux_dz_4"
+  146  git push
+  147  cd /
+  148  cd
+  149  linux.itcareerhub.de
+  150  ssh ec2-user@linux.itcareerhub.de
+  151  ssh ec2-user@linux.itcareerhub.de
+  152  cd \Users\2miks\ITHUB\python_home_school
+  153  cd \ITHUB\python_home_school
+  154  cd ITHUB\python_home_school
+  155  cd \python_home_school
+  156  pwd
+  157  ls
+  158  ls -la
+  159  cd /ITHUB/python_home_school/
+  160  cd ITHUB/python_home_school/
+  161  git add Samoilenko_dz_python_10.py
+  162  git commit -m "python_dz_10"
+  163  git status
+  164  git add .gitignore
+  165  git push
+  166  git add Samoilenko_dz_python_8.py
+  167  git commit -m "update_python_dz_8"
+  168  git push
+  169  git push
+  170  git add Samoilenko_dz_python_8.py
+  171  git commit -m "update_python_dz_8"
+  172  git status
+  173  git add Samoilenko_dz_python_8.py
+  174  git status
+  175  git push
+  176  git add Samoilenko_dz_python_8.py
+  177  git push
+  178  git add .
+  179  git rebase --continue
+  180  git push
+  181  git pull --rebase origin main
+  182  git push
+  183  git add Samoilenko_dz_python_11.py
+  184  git commit -m "update_python_dz_11"
+  185  git push
+  186  cd
+  187  cd ITHUB/Linux_home_school/
+  188  ls -la
+  189  git branch
+  190  git checkout -b test
+  191  git branch
+  192  .gitignore
+  193  git commit .gitignore
+  194  nano .gitignore
+  195  cat .gitignore
+  196  nano .gitignore
+  197  nano .gitignore
+  198  git add .gitignore
+  199  git add .gitignore
+  200  git commit -m "add gitignore"
+  201  git status
+  202  ls -la
+  203  touch file.log 2.bmp 3.BMP
+  204  git status
+  205  git config core.ignorecase
+  206  git status
+  207  git config core.ignorecase false
+  208  git config core.ignorecase
+  209  git status
+  210  git config —global 
+  211  git config —global core.ignorecase false
+  212  git status
+  213  git config --global core.ignorecase false
+  214  git status
+  215  git status
+  216  ls -la
+  217  cat .gitignore
+  218  nano .gitignore
+  219  git status
+  220  git add .
+  221  git status
+  222  git rm --cached
+  223  git rm --cached 3.BMP Samoilenko_dz_4_Linux dz_Linux_server_Samoilenko_asamoile_dz_5.png dz_Linux_server_Samoilenko_asamoile_dz_6.png file.log
+  224  git status
+  225  git commit -m "add gitignore"
+  226  git status
+  227  git push
+  228  git push -u origin test
+  229  git switch main
+  230  git merge origin test
+  231  git merge test
+  232  git branch -D test
+  233  git branch
+  234  git pull origin main
+  235  ls -la
+  236  git status
+  237  git log --oneline
+  238  git log --oneline --graph
+  239  git checkout 328451c
+  240  git log --oneline --graph
+  241  git branch
+  242  git checkout -b
+  243  git checkout -b bug_fix
+  244  git log
+  245  cd ..
+  246  git clone
+  247  pwd
+  248  cd c/Users/2miks/ITHUB
+  249  git clone git@github.com:Mikt1an/git_team_work.git
+  250  pwd
+  251  ls
+  252  cd c/Users/2miks/ITHUB/git_team_work/
+  253  cd c/Users/2miks/ITHUB/git_team_work
+  254  cd ITHUB/git_team_work
+  255  cd ITHUB/git_team_work/
+  256  cd /ITHUB/git_team_work/
+  257  ls
+  258  cd git_team_work/
+  259  git log --oneline --graph
+  260  git log
+  261  git log | head -10
+  262  cd c/Users/2miks/ITHUB/git_team_work/
+  263  ls
+  264  cd ITHUB/
+  265  ls
+  266  cd ITHUB/python_home_school/
+  267  cd python_home_school/
+  268  git add Samoilenko_dz_python_15.py
+  269  git commit -m "dz_15"
+  270  git push
+  271  git push
+  272  git push -p
+  273  git status
+  274  git add Samoilenko_dz_python_15.py
+  275  git commit -m "dz_15"
+  276  git status
+  277  git push -p
+  278  git push
+  279  git push origin main
+  280  git pull origin main
+  281  git status
+  282  git push origin main
+  283  cd ITHUB/python_home_school/
+  284  git add practicum_09_03_2026.py
+  285  git commit -m "practice"
+  286  git push
+  287  git pull
+  288  git add practicum_09_03_2026.py
+  289  git commit -m "practice"
+  290  git push
+  291  cd /ITHUB/python_home_school
+  292  ls
+  293  cd ITHUB/python_home_school
+  294  git add Samoilenko_dz_python_16.py
+  295  git commit -m "dz_16"
+  296  git puch
+  297  git push
+  298  git add Samoilenko_dz_python_17.py
+  299  git commit -m "dz_17"
+  300  git push
+  301  git add Samoilenko_dz_python_18.py
+  302  git commit -m "dz_18"
+  303  git push
+  304  git add Samoilenko_dz_python_19.py
+  305  git commit -m "dz_19"
+  306  git push
+  307  git add Samoilenko_dz_python_20.py
+  308  git commit -m "dz_20"
+  309  git push
+  310  git add Samoilenko_dz_python_21.py
+  311  git commit -m "dz_21"
+  312  git push
+  313  git add Samoilenko_dz_python_22.py
+  314  git commit -m "dz_22"
+  315  git push
+  316  cd ITHUB/Linux_home_school
+  317  ls
+  318  git add mono
+  319  git push
+  320  git add mono
+  321  git commit -m "folder"
+  322  git push
+  323  git switch main
+  324  git add mono
+  325  git add mono
+  326  git commit -m "folder"
+  327  git push
+  328  git status
+  329  ls
+  330  git pull origin main --allow-unrelated-histories
+  331  git status
+  332  git push
+  333  git log
+  334  ls -la
+  335  cd  ITHUB/
+  336  ls -la
+  337  cd ITHUB/python_home_school/
+  338  git status
+  339  git push
+  340  git add Samoilenko_dz_python_21.py
+  341  git commit -m "update_dz_21"
+  342  git status
+  343  git push
+  344  git add Samoilenko_dz_python_17.py
+  345  git commit -m "update_dz_17"
+  346  git push
+  347  git add Samoilenko_dz_python_16.py
+  348  git commit -m "update_dz_16"
+  349  git push
+  350  cd ITHUB\python_home_school
+  351  cd ITHUB\python_home_school/
+  352  cd ITHUB\python_home_school\
+  353  cd ITHUB/python_home_school/
+  354  git add Samoilenko_dz_python_23.py
+  355  git commit -m "dz_23"
+  356  git push
+  357  git pull
+  358  git add Samoilenko_dz_python_23.py
+  359  git commit -m "dz_23"
+  360  git push
+  361  git add Samoilenko_dz_python_24.py
+  362  git commit -m "dz_24"
+  363  git push
+  364  git add Samoilenko_dz_python_25.py
+  365  git commit -m "dz_25"
+  366  git push
+  367  git pull
+  368  pwd
+  369  cd .
+  370  cd ./
+  371  cd ..
+  372  mkdir git_intro
+  373  cd git_intro
+  374  git init
+  375  git remote add origin git@github.com:Mikt1an/git_intro.git
+  376  git status
+  377  git branch -M main
+  378  git push -u origin main
+  379  git add map1.jpg
+  380  git commit -m "first commit"
+  381  git push -u origin main
+  382  cd ..
+  383  mkdir git_branch
+  384  cd git_branch
+  385  git init
+  386  git branch -M main
+  387  git remote add origin git@github.com:Mikt1an/git_branch.git
+  388  git checkout -b gitignore
+  389  git branch
+  390  touch .gitignore
+  391  nano .gitignore
+  392  git add .gitignore
+  393  git commit -m "add .gitignore"
+  394  git status
+  395  git add .gitignore
+  396  git push .gitignore
+  397  git remote add origin git@github.com:Mikt1an/git_branch.git
+  398  git status
+  399  git push -u origin gitignore
+  400  git branch
+  401  git checkout -b main
+  402  git checkout gitignore
+  403  git branch
+  404  git push -u origin gitignore
+  405  git checkout -b main
+  406  git push -u origin main
+  407  git checkout gitignore
+  408  git push -u origin gitignore
+  409  ssh ec2-user@linux.itcareerhub.de
+  410  ssh ec2-user@linux.itcareerhub.de
+  411  scp ec2-user@linux.itcareerhub.de:/opt/121225-ptm/asamoile/permission_checker.sh
+  412  scp ec2-user@linux.itcareerhub.de:/opt/121225-ptm/asamoile/permission_checker.sh .
+  413  cd  ITHUB/homework12/
+  414  git init
+  415  git commin -M "main"
+  416  git commin -m "main"
+  417  git add .
+  418  ls
+  419  ls -la
+  420  git remote add origin git@github.com:Mikt1an/homework12.git
+  421  git remote -v
+  422  git commit -M main
+  423  git branch -M main
+  424  ls
+  425  git add .
+  426  ls
+  427  ls -la
+  428  git pull origin
+  429  ls -la
+  430  pwd
+  431  git clone git@github.com:Mikt1an/homework12.git
+  432  ls -la
+  433  pwd
+  434  cd ..
+  435  git clone git@github.com:Mikt1an/homework12.git
+  436  cd  ITHUB/homework12/
+  437  ls -la
+  438  cd  homework12/
+  439  ls -la
+  440  git checkout -b feature
+  441  nano README.md
+  442  nano .gitignore
+  443  git add README.md .gitignore
+  444  git commit -m "add readme and .gitignore"
+  445  git status
+  446  git add README.md .gitignore
+  447  git commit -m "add readme and .gitignore"
+  448  git status
+  449  git push -u origin feature
+  450  git commit --amend
+  451  git push --force-with-lease
+  452  git checkout main
+  453  git pull
+  454  git merge feature
+  455  git pish
+  456  history > history.txt
